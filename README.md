@@ -1,7 +1,10 @@
 # CS-250-Sprint-Review-and-Retrospective
 
 #### *How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+I found that interpreting user needs was easier to do in a focus group setting where potential customers would tell the product owner what they wanted to see as features of the SNHU Travel booking tool. The focus group was helpful for interpreting user needs because the customers could bounce ideas off of eachother, thus making it easier for the product owner to create user stories that would cover all of the needs for implememnting them into the program. User stories were more detailed because of this stage in the planning process.
 
 #### *How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+I normally approach developing programs in a set-by-step manner based on the instructions I'm given. From this point, I develop a flowchart or pseudocode to map out how the program should be structured, then work from that template to design the program. For my future development work, I will start incorporating sprints into my projects because I believe it will make the entire process much more organized and less overwhelming.
 
 #### *What does it mean to be a good team member in software development?
+I believe that communication and transparancy is what makes a good team member in software development. If I have learned anything about agile and scrum, it's been that sprint goals are achieved when the lines of communication between the development team are open and everyone on the team is aware of the progress that the team as a whole is making. If any team members are running into roadblocks, a plan to address those issues can be created quickly in the scrum-agile framework because of daily stand-up meetings where everyone on the team gives an update on their progress. If you don't communicate, you will likely be holding the team back in some way without even realizing it. 
